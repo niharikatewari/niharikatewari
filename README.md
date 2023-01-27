@@ -27,9 +27,11 @@ ________________________________________________________________________________
 
 🧠 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
 
-:basecampy: Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
+:basecampy: Natural Language Processing: NLTK, BERT. 
 
-🥇 Data Visualization: Matplotlib, Tableau, Seaborn, GGPlot2, Plotly.Express, Bokeh. 
+🌳 Development: Python, R Programming, SAS programming, SPSS, Flask, Django, Git.
+
+🥇 Data Visualization: Matplotlib, Tableau, Power BI, Seaborn, GGPlot2, Plotly.Express, Bokeh. 
 
 ☁ Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
 
