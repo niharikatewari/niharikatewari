@@ -2,15 +2,20 @@
 ________________________________________________________________________________________________________________________________________________
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue) 
  
-- 👩‍🔬 A Data Scientist and An Academician. 
-- 🌱 Currently working on Deep Learning Projects. 
+ 📫 Reach me at researchniharika24@gmail.com
+ 
+ <img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+ 
+- 👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
+
+- 🌱 Experience in Object-Oriented Programming styles of Python. Currently working on Deep Learning Projects. 
+
 - 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
-- 📫 Reach me: researchniharika24@gmail.com
+
 - 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
-<img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
-
 ### Skills
+
 
 ### Github Stats
 
