@@ -4,21 +4,36 @@
 ________________________________________________________________________________________________________________________________________________
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue) 
  
-- 📫 Reach me at researchniharika24@gmail.com
+📫 Reach me at researchniharika24@gmail.com
  
-- 👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
+👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
 
-- 🌱 Experience in Object-Oriented Programming styles of Python. Currently working on Deep Learning Projects. 
+🌱 Experience in Object-Oriented Programming styles of Python. Currently working on Deep Learning Projects. 
 
-- 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
+💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
 
-- 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
+👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
-- 🚀 I love to attend webinars and conferences on Deep Learning.
+🚀 I love to attend webinars and conferences on Deep Learning.
 
-- ⏲️ Exploring the confluence of Artificial Intelligence and Heathcare
+⏲️ Exploring the confluence of Artificial Intelligence and Heathcare.
 
-### Skills 💻
+
+### Tools | Frameworks 💻
+
+🗺️ Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+
+👌 Data Preprocessing: NumPy, Pandas.
+
+🧠 Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
+
+:basecampy: Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
+
+🥇 Data Visualization: Matplotlib, Tableau, Seaborn, GGPlot2, Plotly.Express, Bokeh. 
+
+☁ Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
+
+✍️ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 ### Github Stats ☄️
 
