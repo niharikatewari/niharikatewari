@@ -19,8 +19,7 @@
 ⏲️ Exploring the confluence of Artificial Intelligence and Heathcare.
 
 
-### Tools | Frameworks 💻
-________________________________________________________________________________________________________________________________________________________
+<h2 align="center"> Tools | Frameworks 💻 </h2>
 
 🗺️ Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
 
