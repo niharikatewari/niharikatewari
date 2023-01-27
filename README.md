@@ -9,7 +9,10 @@ ________________________________________________________________________________
 - 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
 <img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
- _________________________________________________________________________________________________________________________________________________
+
+### Skills
+
+### Github Stats
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
 
