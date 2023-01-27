@@ -21,7 +21,7 @@
 
 <h2 align="center"> Tools | Frameworks 💻 </h2>
 
-🗺️ Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+🗺️ Web: NodeJS, MongoDB.
 
 👌 Data Preprocessing: NumPy, Pandas.
 
