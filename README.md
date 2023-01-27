@@ -49,7 +49,7 @@
 
 <h2 align="center"> Github Stats ☄️ </h2>
 
-<p align="center"> ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical) </p>
+![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
 
 <img height="380" width="1400" src="https://github.com/niharikatewari/niharikatewari/blob/main/imagedata.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 
