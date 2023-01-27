@@ -55,4 +55,3 @@ ________________________________________________________________________________
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
 
-<img height="180em" src="https://camo.githubusercontent.com/9bd578454e65cd3a69a91ad9fa94ff89b8cfa0aff050da3cb2a6ec9d262ba1a1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4761707572266578636c7564655f7265706f3d4b4e4e2d496d6167652d436c617373696669636174696f6e2673686f775f69636f6e733d7472756526686964655f626f726465723d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&amp;exclude_repo=KNN-Image-Classification&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;">
