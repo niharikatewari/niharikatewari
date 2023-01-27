@@ -1,5 +1,5 @@
-### Hi there 👋
-- 🔭 Data Scientist and An Academician 
+### Hi there 👋 I'm a Data Scientist and An Academician 
+_____________________________________________________________________________________________________________________
 - 🌱 Currently working on data science projects 
 - 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning
 - 📫 How to reach me: researchniharika24@gmail.com
