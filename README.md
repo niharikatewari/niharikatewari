@@ -14,6 +14,10 @@ ________________________________________________________________________________
 
 - 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
+- 🚀 I love to attend webinars and conferences on Deep Learning.
+
+- ⏲️ Exploring the confluence of Artificial Intelligence and Heathcare
+
 ### Skills 💻
 
 ### Github Stats ☄️
