@@ -2,10 +2,11 @@
 ________________________________________________________________________________________________________________________________________________
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=blue&right_color=yellow)
-- 👩‍🔬Data Scientist and An Academician 
-- 🌱 Currently working on data science projects. 
-- 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning
+- 👩‍🔬 A Data Scientist and An Academician. 
+- 🌱 Currently working on Deep Learning Projects. 
+- 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
 - 📫 Reach me: researchniharika24@gmail.com
-- 👯 I’m looking to collaborate on medical images in field of bioinformatics.
+- 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
 <img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+
