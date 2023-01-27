@@ -8,4 +8,4 @@ ________________________________________________________________________________
 - 📫 Reach me: researchniharika24@gmail.com
 - 👯 I’m looking to collaborate on medical images in field of bioinformatics.
 
-<img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="width: 200%; display: inline-block;" data-target="animated-image.originalImage">
+<img height="380" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
