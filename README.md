@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Data Scientist and An Academician 
 ________________________________________________________________________________________________________________________________________________
 
-![](https://komarev.com/ghpvc/?niharikatewari)
+![](https://komarev.com/ghpvc/?niharikatewari&label=PROFILE+VIEWS)
 
 - 🌱 Currently working on data science projects 
 - 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning
