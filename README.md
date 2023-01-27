@@ -4,7 +4,7 @@ ________________________________________________________________________________
  
  📫 Reach me at researchniharika24@gmail.com
  
- <img height="380" width="400" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
+ <img height="380" width="900" src="https://github.com/niharikatewari/niharikatewari/blob/main/brain.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
  
 - 👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
 
