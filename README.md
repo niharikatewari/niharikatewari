@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 ### Skills 💻
 
-### Github Stats
+### Github Stats ☄️
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
 
