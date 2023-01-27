@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm a Data Scientist and An Academician 
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand gestures/wavinghand.png"
-  alt="Waving hand"
-  width="25"
-  height="25"
-/>
+
 ________________________________________________________________________________________________________________________________________________
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=blue&right_color=yellow)
