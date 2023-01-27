@@ -4,8 +4,7 @@
 ________________________________________________________________________________________________________________________________________________
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue) 
  
- 📫 Reach me at researchniharika24@gmail.com
- 
+- 📫 Reach me at researchniharika24@gmail.com
  
 - 👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
 
@@ -15,8 +14,7 @@ ________________________________________________________________________________
 
 - 👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
 
-### Skills
-
+### Skills 💻
 
 ### Github Stats
 
