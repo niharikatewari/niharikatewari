@@ -37,6 +37,10 @@
 
 ✍️ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
+<h2 align="center"> Machine Learning and Deep Learning Apps 🔭 </h2>
+
+https://niharikatewari-apps-app-g4yeg3.streamlit.app/
+
 <h2 align="center"> Social Media Accounts 🔗 </h2>
 
 <a href="https://www.linkedin.com/in/niharika-tewari-b29033116/" rel="nofollow">
