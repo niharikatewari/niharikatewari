@@ -79,6 +79,9 @@
   <a href="https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-OpenCV%20App-green" alt="OpenCV App"/>
   </a>
+ <a href="https://niharikatewari36.shinyapps.io/Iris/?_ga=2.61437868.1477831863.1677346516-164298163.1677346516">
+    <img src="https://img.shields.io/badge/RShinyApp-Iris%20App-green" alt="RShinyApp App"/>
+  </a>
 </div>
 
 <h2 align="center"> Github Stats ☄️ </h2>
