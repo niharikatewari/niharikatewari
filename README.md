@@ -50,8 +50,8 @@ https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/
   <a href="https://www.researchgate.net/profile/Niharika-Tewari">
     <img src="https://img.shields.io/badge/ResearchGate-orange?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="Researchgate Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://rpubs.com/Niharika36)">
-    <img src="https://img.shields.io/badge/RStudio-yellow?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio Badge"/>
+  <a href="https://rpubs.com/Niharika36">
+    <img src="https://img.shields.io/badge/RPubs-yellow?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio Badge"/>
   </a>
 </div>
 
