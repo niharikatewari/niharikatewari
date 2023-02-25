@@ -55,7 +55,6 @@ https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/
   </a>
 </div>
 
-<img alt="Custom badge" src="https://img.shields.io/endpoint?label=ResearchGate&logo=ResearchGate&logoColor=white&&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FNiharika-Tewari">
 <h2 align="center"> Github Stats ☄️ </h2>
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
