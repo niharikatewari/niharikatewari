@@ -23,7 +23,9 @@
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-7690-9814">
     <img src="https://img.shields.io/badge/ORCID-purple?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
   </a>
-  
+  <a href="https://scholar.google.com/citations?user=KcmWy1MAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-brightgreen?style=for-the-badge&logo=Google Scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a> 
 </div>
 </h2>
 
