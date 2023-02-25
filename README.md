@@ -20,6 +20,10 @@
   <a href="https://www.semanticscholar.org/author/Niharika-Tewari/1491243987">
     <img src="https://img.shields.io/badge/Semantic Scholar-yellowgreen?style=for-the-badge&logo=Semantic Scholar&logoColor=white" alt="Semantic Scholar Badge"/>
   </a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-7690-9814">
+    <img src="https://img.shields.io/badge/ORCID-yellowgreen?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
+  </a>
+  
 </div>
 </h2>
 
