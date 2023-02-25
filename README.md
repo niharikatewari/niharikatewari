@@ -48,17 +48,14 @@ https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.researchgate.net/profile/Niharika-Tewari">
-    <img src="https://img.shields.io/endpoint?label=ResearchGate&logo=ResearchGate&logoColor=white" alt="Researchgate Badge"/>
+    <img src="https://img.shields.io/badge/ResearchGate-blue?style=for-the-badge&label=ResearchGate&logo=ResearchGate&logoColor=white" alt="Researchgate Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<a href="https://www.researchgate.net/profile/Niharika-Tewari" rel="nofollow">
-<img src="https://camo.githubusercontent.com/58303f0576559ea5bd6dad66e2a43cdab19d1902f1d4bdf693e8c0956dc1b46a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d3362353939383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465" alt="Research Gate" data-canonical-src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white" style="max-width: 100%;">
-</a>
-
+<img alt="Custom badge" src="https://img.shields.io/endpoint?label=ResearchGate&logo=ResearchGate&logoColor=white&&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FNiharika-Tewari">
 <h2 align="center"> Github Stats ☄️ </h2>
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
