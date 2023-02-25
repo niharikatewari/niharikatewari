@@ -14,6 +14,9 @@
   <a href="https://rpubs.com/Niharika36">
     <img src="https://img.shields.io/badge/RPubs-yellow?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio Badge"/>
   </a>
+  <a href="https://share.streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
+  </a>
 </div>
 </h2>
 
