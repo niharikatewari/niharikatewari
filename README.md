@@ -17,6 +17,9 @@
   <a href="https://share.streamlit.io/">
     <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
   </a>
+  <a href="https://www.semanticscholar.org/author/Niharika-Tewari/1491243987">
+    <img src="https://img.shields.io/badge/Semantic Scholar-yellowgreen?style=for-the-badge&logo=Semantic Scholar&logoColor=white" alt="Semantic Scholar Badge"/>
+  </a>
 </div>
 </h2>
 
