@@ -26,6 +26,9 @@
   <a href="https://scholar.google.com/citations?user=KcmWy1MAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google Scholar-brightgreen?style=for-the-badge&logo=Google Scholar&logoColor=white" alt="Google Scholar Badge"/>
   </a> 
+  <a href="https://public.tableau.com/app/profile/niharika.tewari">
+    <img src="https://img.shields.io/badge/Tableau-FABF15?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
+  </a> 
 </div>
 </h2>
 
