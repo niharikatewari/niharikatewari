@@ -28,7 +28,10 @@
   </a> 
   <a href="https://public.tableau.com/app/profile/niharika.tewari">
     <img src="https://img.shields.io/badge/Tableau-FABF15?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
-  </a> 
+  </a>
+ <a href="https://public.tableau.com/app/profile/niharika.tewari">
+    <img src="https://img.shields.io/badge/RShinyApp-FABF15?style=for-the-badge&logo=R&logoColor=white" alt="Rshiny Badge"/>
+  </a>
 </div>
 </h2>
 
