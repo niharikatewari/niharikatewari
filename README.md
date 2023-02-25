@@ -61,9 +61,6 @@
   <a href="https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-OpenCV%20App-green" alt="OpenCV App"/>
   </a>
-  <a href="https://rpubs.com/Niharika36">
-    <img src="https://img.shields.io/badge/RPubs-yellow?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio Badge"/>
-  </a>
 </div>
 
 <h2 align="center"> Github Stats ☄️ </h2>
