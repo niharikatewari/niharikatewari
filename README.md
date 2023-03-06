@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/RShinyApp-Maps%20App-green" alt="RShinyApp App"/>
   </a>
  <a href="https://niharikatewari36.shinyapps.io/MapsinR/?_ga=2.156796091.1201453217.1677904953-782956289.1673065074">
-    <img src="https://img.shields.io/badge/Streamlit-Face%20App-yellowgreen" alt="FaceDetection App"/>
+    <img src="https://img.shields.io/badge/Streamlit-FaceDetectionApp%20App-yellowgreen" alt="FaceDetection App"/>
   </a>
 </div>
 
