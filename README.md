@@ -70,7 +70,7 @@
 
 ✍️ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
-<h2 align="center"> Machine Learning and Deep Learning Apps 🔭 </h2>
+<h2 align="center"> Computer Vision Apps 🔭 </h2>
 
 <div id="badges">
   <a href="https://niharikatewari-apps-app-g4yeg3.streamlit.app/">
