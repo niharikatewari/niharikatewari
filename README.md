@@ -82,6 +82,9 @@
  <a href="https://niharikatewari36.shinyapps.io/Iris/?_ga=2.61437868.1477831863.1677346516-164298163.1677346516">
     <img src="https://img.shields.io/badge/RShinyApp-Iris%20App-green" alt="RShinyApp App"/>
   </a>
+   <a href="https://niharikatewari36.shinyapps.io/Documents/?_ga=2.156458488.211187026.1679727331-782956289.1673065074">
+    <img src="https://img.shields.io/badge/RShinyApp-Mapsfor8countries%20App-green" alt="RShinyApp App"/>
+  </a>
   <a href="https://niharikatewari36.shinyapps.io/MapsinR/?_ga=2.156796091.1201453217.1677904953-782956289.1673065074">
     <img src="https://img.shields.io/badge/RShinyApp-Maps%20App-green" alt="RShinyApp App"/>
   </a>
