@@ -39,6 +39,8 @@
  
 📫 Reach me at researchniharika24@gmail.com
 
+🖥️ niharikatewari.github.io 
+
 👩‍🔬 A Data Scientist and An Academician in the area of Data Science and Software Development. Eager to bring expertise to solve challenging problems and create story out of data.
 
 🌱 Experience in Object-Oriented Programming styles of Python. Currently working on Deep Learning Projects. 
