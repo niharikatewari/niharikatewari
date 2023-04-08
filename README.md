@@ -43,7 +43,7 @@
 
 🌱 Experience in Object-Oriented Programming styles of Python. Currently working on Deep Learning Projects. 
 
-💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
+💬 Ask me about BioMedical engineering with Computer Vision, Machine Learning and Deep Learning.
 
 👯 I’m looking to collaborate on medical images in field of bioinformatics and area specific related to Graph Convolution Networks. 
 
