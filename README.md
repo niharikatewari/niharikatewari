@@ -45,7 +45,7 @@
 
 💬 Ask me about BioMedical engineering with Computer Vision, Risk Management, Machine Learning and Deep Learning.
 
-👯 I’m looking to collaborate on medical images in field of bioinformatics and research papers related to GANs, Biomedical Imaging, Federal learning and Adversial ML.
+👯 I’m looking to collaborate on medical images in field of bioinformatics and area specific related to Graph Convolution Networks. 
 
 🚀 I love to attend webinars and conferences on Deep Learning.
 
