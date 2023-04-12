@@ -93,6 +93,9 @@
  <a href="https://niharikatewari-facedetectionhaarcascade-faceapp-jeo3zr.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-FaceDetectionApp%20App-yellowgreen" alt="FaceDetection App"/>
   </a>
+   <a href="https://niharikatewari-image-and-video-detection-videoapp-63ofj9.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Image and Video Detection App%20App-yellowgreen" alt="Image video Detection App"/>
+  </a>
 </div>
 
 <h2 align="center"> Github Stats ☄️ </h2>
