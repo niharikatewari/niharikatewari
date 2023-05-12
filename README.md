@@ -100,13 +100,13 @@
 
 <h2 align="center"> Github Stats ☄️ </h2>
 
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
+![Niharika's GitHub stats] (https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
 
-![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=dark&hide_border=true)<br/>
+![Niharika's GitHub stats] (https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=dark&hide_border=true)<br/>
 
 
 <h2 align="center"> Github Trophies 🏆 </h2> 
-![Niharika's GitHub stats](https://github-profile-trophy.vercel.app/?username=niharikatewari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![Niharika's GitHub stats] (https://github-profile-trophy.vercel.app/?username=niharikatewari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 <img height="380" width="1400" src="https://github.com/niharikatewari/niharikatewari/blob/main/imagedata.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 
