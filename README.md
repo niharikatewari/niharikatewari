@@ -105,7 +105,6 @@
 
 ![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=dark&hide_border=true)<br/>
 
-
 <h2 align="center"> Github Trophies 🏆 </h2> 
 
 ![Niharika's GitHub stats](https://github-profile-trophy.vercel.app/?username=niharikatewari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)<br/>
