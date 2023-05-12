@@ -104,6 +104,8 @@
 
 <img height="380" width="1400" src="https://github.com/niharikatewari/niharikatewari/blob/main/imagedata.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 
+![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=dark&hide_border=true)<br/>
+
 
 
 
@@ -113,12 +115,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niharikatewari&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikatewari&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niharikatewari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=niharikatewari&icon=9&color=7)](https://visitcount.itsvg.in)
 
 
