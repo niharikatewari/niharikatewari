@@ -35,8 +35,7 @@
 </div>
 </h2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)  
-![visitors](https://komarev.com/ghpvc/?username=niharikatewari&color=brightgreen&style=for-the-badge)
+![visitors](https://komarev.com/ghpvc/?username=niharikatewari&color=yellow&style=for-the-badge)
  
 📫 Reach me at researchniharika24@gmail.com
 
