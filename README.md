@@ -36,8 +36,6 @@
 </h2>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=blue)  
-
-https://api.visitor.plantree.me/visitor-badge/pv?namespace=example.com&key=index.html&style=for-the-badge
  
 📫 Reach me at researchniharika24@gmail.com
 
