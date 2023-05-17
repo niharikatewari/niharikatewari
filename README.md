@@ -99,6 +99,11 @@
   </a>
 </div>
 
+<a href="https://face-application-cv.onrender.com/">
+    <img src="https://img.shields.io/badge/Render-Machine%20Learning%20App-red?style=for-the-badge&logo=appveyor" alt="Face Detection App"/>
+</a>
+
+
 <h2 align="center"> Github Stats ☄️ </h2>
 
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&show_icons=true&theme=radical)
