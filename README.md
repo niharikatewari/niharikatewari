@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Render-OpenCVImage%20App-red?style=for-the-badge&logo=appveyor" alt="OpenCVImage App"/>
   </a>
   <a href="https://niharikatewari-apps-app-g4yeg3.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit-Machine%20Learning%20App-yellowgreen" alt="Machine Learning App"/>
+    <img src="https://img.shields.io/badge/Streamlit-Machine%20Learning%20App-yellowgreen?style=for-the-badge&logo=appveyor" alt="Machine Learning App"/>
   </a>
    <a href="https://breastcancerprediction-h4bl.onrender.com/">
     <img src="https://img.shields.io/badge/Render-Breast%20Cancer%20Flask-red?style=for-the-badge&logo=appveyor" alt="Breast Cancer Flask App"/>
@@ -101,7 +101,7 @@
     <img src="https://img.shields.io/badge/RShinyApp-Maps%20App-green?style=for-the-badge&logo=appveyor" alt="RShinyApp App"/>
   </a>
    <a href="https://niharikatewari-image-and-video-detection-videoapp-63ofj9.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit-Image and Video Detection %20App-yellowgreen" alt="Image video Detection App"/>
+    <img src="https://img.shields.io/badge/Streamlit-Image and Video Detection %20App-yellowgreen?style=for-the-badge&logo=appveyor" alt="Image video Detection App"/>
   </a>
 </div>
 
