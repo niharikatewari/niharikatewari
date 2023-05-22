@@ -77,13 +77,16 @@
 <h2 align="center"> Deployed Web Apps 🔭 </h2>
 <div id="badges">
   <a href="https://face-application-cv.onrender.com/">
-    <img src="https://img.shields.io/badge/Render-Machine%20Learning%20App-red?style=for-the-badge&logo=appveyor" alt="Face Detection App"/>
+    <img src="https://img.shields.io/badge/Render-Machine%20Learning%20App-red?style=for-the-badge&logo=appveyor" alt="Face Detection-HaarCascade App"/>
+  </a>
+  <a href="https://imageanalysis-opencv.onrender.com/">
+    <img src="https://img.shields.io/badge/Render-Machine%20Learning%20App-red?style=for-the-badge&logo=appveyor" alt="OpenCVImage App"/>
   </a>
   <a href="https://niharikatewari-apps-app-g4yeg3.streamlit.app/">
     <img src="https://img.shields.io/badge/Streamlit-Machine%20Learning%20App-yellowgreen" alt="Machine Learning App"/>
   </a>
-  <a href="https://niharikatewari-opencvapp-cvapp-mq0m3p.streamlit.app/">
-    <img src="https://img.shields.io/badge/Streamlit-OpenCV%20App-yellowgreen" alt="OpenCV App"/>
+   <a href="https://breastcancerprediction-h4bl.onrender.com/">
+    <img src="https://img.shields.io/badge/Render-Machine%20Learning%20App-red?style=for-the-badge&logo=appveyor" alt="Breast Cancer Flask App"/>
   </a>
  <a href="https://niharikatewari36.shinyapps.io/Iris/?_ga=2.61437868.1477831863.1677346516-164298163.1677346516">
     <img src="https://img.shields.io/badge/RShinyApp-Iris%20App-green" alt="RShinyApp App"/>
