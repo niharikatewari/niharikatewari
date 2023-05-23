@@ -47,7 +47,7 @@
 
 💬 Ask me about BioMedical engineering with Computer Vision, Machine Learning and Deep Learning.
 
-👯 I’m looking to collaborate on medical images in field of bioinformatics, Neuroimaging and area specific related to Graph Convolution Networks. 
+👯 I’m looking to collaborate in the field of Bioinformatics, Neuroimaging and area specific related to Graph Convolution Networks. 
 
 🚀 I love to attend webinars and conferences on Deep Learning.
 
