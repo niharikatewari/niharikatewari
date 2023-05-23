@@ -109,9 +109,11 @@
 
 <h2 align="center"> Github Stats ☄️ </h2>
 
-<p align="right">![Niharika's GitHub stats]((https://github-readme-stats.vercel.app/api?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true)</p>
+![Niharika's GitHub stats]((https://github-readme-stats.vercel.app/api?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="left">![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=calm&hide_border=false)</p>
+![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=calm&hide_border=false)
+
+![Niharika's GitHub stats](https://github-contributor-stats.vercel.app/api?username=niharikatewari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
 <h2 align="center"> Github Trophies 🏆 </h2> 
@@ -124,6 +126,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=niharikatewari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
