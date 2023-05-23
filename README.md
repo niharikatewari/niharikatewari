@@ -113,8 +113,9 @@
 
 <h2 align="center"> Github Contributions 🥇 </h2>
 
+<h2 align="center">
 ![Niharika's GitHub stats](https://github-contributor-stats.vercel.app/api?username=niharikatewari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) 
-
+</h2>
 
 <h2 align="center"> Github Trophies 🏆 </h2> 
 
