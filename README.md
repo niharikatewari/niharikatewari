@@ -109,13 +109,7 @@
 
 <h2 align="center"> Github Stats ☄️ </h2>
 
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true)
-
-![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=calm&hide_border=false)
-
-![Niharika's GitHub stats](https://github-contributor-stats.vercel.app/api?username=niharikatewari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true) ![Niharika's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niharikatewari&theme=calm&hide_border=false) ![Niharika's GitHub stats](https://github-contributor-stats.vercel.app/api?username=niharikatewari&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikatewari&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <h2 align="center"> Github Trophies 🏆 </h2> 
