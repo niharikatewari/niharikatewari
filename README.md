@@ -54,14 +54,13 @@
 ⏲️ Exploring the confluence of Artificial Intelligence and Heathcare.
 
 
-<h2 align="center"> Research Papers 📰 </h2>
+<h2 align="center"> Research | Book | Chapters 📰 </h2>
 
 | Research Paper  | Authors |
 | ------------- | ------------- |
 | <a href="https://submissions.nobelonline.in/chapter-5-artificial-intelligence-in-finance-and-industry-opportunities-and-challenges/">Artificial Intelligence in Finance and Industry: Opportunities and Challenges</a> | Niharika Tewari |
 | <a href="https://ieeexplore.ieee.org/document/8975632">A Review of Omega Based Portfolio Optimization</a>  | Niharika Tewari; Md. Imran Hossain Showrov; Vikash Kumar Dubey  |
-
-
+| <a href="">Real-Time COVID-19 Prediction: An Ensemble-Based Machine Learning Approach</a>  | Pradeep Kumar Nishad; Niharika Tewari |
 
 <h2 align="center"> Tools | Frameworks 💻 </h2>
 
