@@ -54,6 +54,15 @@
 ⏲️ Exploring the confluence of Artificial Intelligence and Heathcare.
 
 
+<h2 align="center"> Research Papers 📰 </h2>
+
+| Research Paper  | Authors |
+| ------------- | ------------- |
+| <a href="https://submissions.nobelonline.in/chapter-5-artificial-intelligence-in-finance-and-industry-opportunities-and-challenges/">Artificial Intelligence in Finance and Industry: Opportunities and Challenges</a> | Niharika Tewari |
+| <a href="https://ieeexplore.ieee.org/document/8975632">A Review of Omega Based Portfolio Optimization</a>  | Niharika Tewari; Md. Imran Hossain Showrov; Vikash Kumar Dubey  |
+
+
+
 <h2 align="center"> Tools | Frameworks 💻 </h2>
 
 🗺️ Web: NodeJS, MongoDB.
