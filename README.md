@@ -17,15 +17,15 @@
   <a href="https://share.streamlit.io/">
     <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
   </a>
-  <a href="https://www.semanticscholar.org/author/Niharika-Tewari/1491243987">
+  <!--<a href="https://www.semanticscholar.org/author/Niharika-Tewari/1491243987">
     <img src="https://img.shields.io/badge/Semantic Scholar-yellowgreen?style=for-the-badge&logo=Semantic Scholar&logoColor=white" alt="Semantic Scholar Badge"/>
-  </a>
+  </a>-->
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-7690-9814">
     <img src="https://img.shields.io/badge/ORCID-purple?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=KcmWy1MAAAAJ&hl=en">
+  <!--<a href="https://scholar.google.com/citations?user=KcmWy1MAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google Scholar-brightgreen?style=for-the-badge&logo=Google Scholar&logoColor=white" alt="Google Scholar Badge"/>
-  </a> 
+  </a>-->
   <a href="https://public.tableau.com/app/profile/niharika.tewari">
     <img src="https://img.shields.io/badge/Tableau-FABF15?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
   </a>
